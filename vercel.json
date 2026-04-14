@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd santorini-m-veis-projetados && npm run build",
+  "installCommand": "cd santorini-m-veis-projetados && npm install",
+  "outputDirectory": "santorini-m-veis-projetados/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
