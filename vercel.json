@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd santorini-m-veis-projetados && npm run build",
-  "installCommand": "cd santorini-m-veis-projetados && npm install",
+  "buildCommand": "ls -lA && cd santorini-m-veis-projetados && npm run build",
+  "installCommand": "pwd && ls -lA && cd santorini-m-veis-projetados && npm install",
   "outputDirectory": "santorini-m-veis-projetados/dist",
   "rewrites": [
     {
