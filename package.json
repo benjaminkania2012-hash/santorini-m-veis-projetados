@@ -5,7 +5,5 @@
     "install": "cd santorini-m-veis-projetados && npm install",
     "build": "cd santorini-m-veis-projetados && npm run build"
   },
-  "devDependencies": {
-    "sharp": "^0.34.5"
-  }
+  "devDependencies": {}
 }
