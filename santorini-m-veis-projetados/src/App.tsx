@@ -1478,7 +1478,7 @@ const Contact = () => {
           viewport={{ once: true }}
           className="lg:w-1/2"
         >
-          <form className="space-y-4">
+          <form className="space-y-4" onSubmit={(e) => e.preventDefault()}>
             <div className="space-y-1">
               <label className="text-xs font-bold uppercase tracking-widest text-brand-gray ml-1">Nome Completo</label>
               <input type="text" placeholder="Como podemos te chamar?" className="w-full bg-black/40 border border-white/10 rounded-xl p-4 outline-none focus:border-brand-orange transition-colors" />
