@@ -1086,7 +1086,7 @@ const InstagramFeed = () => {
         </div>
         
         <div className="mt-12 text-center">
-          <a href="#" className="inline-flex items-center gap-2 text-brand-orange font-bold hover:gap-4 transition-all">
+          <a href="https://instagram.com/santoriniprojetados" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-brand-orange font-bold hover:gap-4 transition-all">
             Ver mais projetos no Instagram <ExternalLink size={20} />
           </a>
         </div>
