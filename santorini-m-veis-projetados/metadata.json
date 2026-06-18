@@ -1,0 +1,7 @@
+{
+  "name": "Santorini Projetados | Móveis Planejados em Erechim",
+  "description": "Móveis planejados e sob medida de alto padrão em Erechim, RS. Projetos exclusivos para cozinhas, quartos e escritórios com acabamento impecável.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

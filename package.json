@@ -1,0 +1,10 @@
+{
+  "name": "santorini-root",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "cd santorini-m-veis-projetados && npm install",
+    "dev": "cd santorini-m-veis-projetados && npm run dev",
+    "build": "cd santorini-m-veis-projetados && npm run build"
+  },
+  "devDependencies": {}
+}
